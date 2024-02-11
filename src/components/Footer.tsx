@@ -27,7 +27,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="text-center text-sm text-muted-foreground">
-          © {new Date().getFullYear()} Flow Jobs, Inc. All rights reserved.
+          © {new Date().getFullYear()} Lim Jobs, Inc. All rights reserved.
         </div>
       </div>
     </footer>
